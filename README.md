@@ -13,7 +13,7 @@ SpringbootAPI's/
 │── DemoSpringFram/     # ⚠️ Manually created Spring project (fixing Maven/dependency issues)
 │── FutureProjects/     # 🚀 Placeholder for upcoming projects
 ```
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Java 17+ ☕
 
@@ -23,7 +23,7 @@ SpringbootAPI's/
 
 - Maven 📦
 
-# 🎯 My Learning Goals
+## 🎯 My Learning Goals
 
 - Understand Spring Boot basics → REST APIs, Dependency Injection, Annotations
 
@@ -34,15 +34,15 @@ SpringbootAPI's/
 - Build multiple small projects → gradually move toward real-world apps
 
 
-# 💡 Note for Myself
+## 💡 Note for Myself
 
 #### Errors are part of the journey 💯. Each bug I solve makes me a better developer.
 
-# 🤝 Contribution
+## 🤝 Contribution
 
 This is my personal learning repo but if you have suggestions/tips for fixing issues, feel free to share.
 
-# ⭐ Fun Fact:
+## ⭐ Fun Fact:
 ##### "Spring Boot makes Java cool again!" 🌸
 
 
